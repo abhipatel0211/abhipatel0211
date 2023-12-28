@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhi Patel</h1>
 <h3 align="center">A Passionate Full Stack Developer with a strong drive for solving challenges and crafting user-centric projects. Final Year Student at LDRP ITR, proficient in web technologies: HTML, CSS, JS, React, Next, Node, Express, MongoDB, Firebase, and Git. I also have experience with C/C++, Java , Python, and Data Structures and Algorithms. I love exploring new technologies and staying up-to-date with the latest trends in the tech world. Collaboration is the key to success! I thrive in team environments, sharing ideas and learning from diverse perspectives. Eager to innovate, grow, and create meaningful solutions to make a positive impact. Let's connect! Feel free to reach out for networking, job opportunities, or discussing potential collaborations.</h3>
 
-- 🔭 I’m currently working on [Chatwhiz](https://github.com/abhipatel0211/ChatWhiz)
+- 🔭 I’m currently working on [open source](https://github.com/RocketChat)
 
 - 🌱 I’m currently learning **devops**
 
