@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Abhi Patel</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abhi Patel</h1>
 <h3 align="center">A Passionate Full Stack Developer with a strong drive for solving challenges and crafting user-centric projects. Final Year Student at LDRP ITR, proficient in web technologies: HTML, CSS, JS, React, Next, Node, Express, MongoDB, Firebase, and Git. I also have experience with C/C++, Java , Python, and Data Structures and Algorithms. I love exploring new technologies and staying up-to-date with the latest trends in the tech world. Collaboration is the key to success! I thrive in team environments, sharing ideas and learning from diverse perspectives. Eager to innovate, grow, and create meaningful solutions to make a positive impact. Let's connect! Feel free to reach out for networking, job opportunities, or discussing potential collaborations.</h3>
+-->
+<h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> , I'm Abhi Patel ! Glad to see you here </h1>
+<h3 align="center">A passionate Full Stack Developer & coder. Always ready to Tackle new challenges.</h3>
+<br>
+<img align="centre" src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=H+O+L+A;Full+Stack+Developer;C+o+d+i+n+g+i+s+L+O+v+e;Exchanging+Knowledge;MERN+Stack+Developer;Nice+to+meet+you+...">
+<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+
 
 - 🔭 I’m currently working on [open source](https://github.com/RocketChat)
 
-- 🌱 I’m currently learning **devops**
+<!--- 🌱 I’m currently learning **devops**-->
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/abhi-patel](https://bit.ly/abhi-patel)
 
