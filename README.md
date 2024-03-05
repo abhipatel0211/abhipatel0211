@@ -4,7 +4,7 @@
 <h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> , I'm Abhi Patel ! Glad to see you here </h1>
 <h3 align="center">A passionate Full Stack Developer & coder. Always ready to Tackle new challenges.</h3>
 <br>
-<img align="centre" src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=H+O+L+A;Full+Stack+Developer;C+o+d+i+n+g+i+s+L+O+v+e;Exchanging+Knowledge;MERN+Stack+Developer;Nice+to+meet+you+...">
+<img align="centre" src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=H+O+L+A;Full+Stack+Developer;C+o+d+i+n+g+i+s+L+O+v+e;Computer+Engineer;Exchanging+Knowledge;MERN+Stack+Developer;Nice+to+meet+you+...">
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
